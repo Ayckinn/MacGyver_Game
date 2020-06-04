@@ -9,7 +9,7 @@ You must get all items before trying to get out of the labyrinth.
 
 <img width=600px src="https://github.com/Ayckinn/MacGyver_Game/blob/master/img/screenshot.png" />
 
-### USAGE
+### Usage
 Install virtual environment : ```sudo apt install virtualenv```
 
 Create virualenv folder : ```virtualenv .env --python=python3.x``` where "x" is the version of your choice
