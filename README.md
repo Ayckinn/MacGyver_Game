@@ -11,8 +11,11 @@ You must get all items before trying to get out of the labyrinth.
 
 ### USAGE
 Install virtual environment : ```sudo apt install virtualenv```
+
 Create virualenv folder : ```virtualenv .env --python=python3.x``` where "x" is the version of your choice
+
 Install packages : ```pip install -r requirements.txt```
+
 Run game : ```python main.py```
 
 ### Changelog
