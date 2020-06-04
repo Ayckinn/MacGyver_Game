@@ -14,9 +14,13 @@ Install virtual environment : ```sudo apt install virtualenv```
 
 Create virualenv folder : ```virtualenv .env --python=python3.x``` where "x" is the version of your choice
 
+Activate virtualenv : ```source .env/bin/activate```
+
 Install packages : ```pip install -r requirements.txt```
 
 Run game : ```python main.py```
+
+Deactivate virtualenv : Just enter ```deactivate```
 
 ### Changelog
 ---
